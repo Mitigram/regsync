@@ -1,5 +1,10 @@
 # Docker Registry Sync
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+**⛔️DEPRECATED⛔️** This repository is now in archive mode. You may get some
+voluntary support through this friendly [fork].
+
 This [project] and accompanying Docker [image] are able to selectively
 synchronise images from a source Docker registry to a destination registry.
 Synchronisation is able to restrict to a subset of the existing images at the
@@ -17,6 +22,7 @@ likely to have a common set of layers.
 
   [project]: https://github.com/Mitigram/regsync
   [image]: https://hub.docker.com/r/mitigram/regsync
+  [fork]: https://github.com/efrecon/regsync
 
 ## Requirements
 
